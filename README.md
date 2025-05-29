@@ -1,3 +1,4 @@
+![logo](https://github.com/sudiprangle/sudiprangle/blob/main/Sudip%20rangle.jpg)
 <h1 align="center">Hi 👋, I'm Sudip Rangle</h1>
 <h3 align="center">Electronics & Telecom Engineering Student</h3>
 
